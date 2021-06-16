@@ -47,6 +47,7 @@
   (format t " ~%")
 
 
+
 	(print "Tic tac Toe game Board")
 
     (format t " ~%")

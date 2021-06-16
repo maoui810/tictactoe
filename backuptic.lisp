@@ -342,6 +342,7 @@
 	(print val)
 	(return-from MAX-VALUE val)
 )
+)
 
 (setq maxTemList(list ))
 
